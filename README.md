@@ -17,11 +17,24 @@
 
 ## Tech I use
 
+<img width='50'  src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png'/> &nbsp; &nbsp; &nbsp;
 <img width='50'  src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png'/> &nbsp; &nbsp;
 <img width='50'  src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png'/> &nbsp; &nbsp; 
 <img width='50'  src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/> &nbsp; &nbsp; 
 <img width='50'  src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/> &nbsp; &nbsp; 
 <img width='50'  src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/> &nbsp; &nbsp; &nbsp;
+<img width='50'  src ='https://avatars.githubusercontent.com/u/9141961?s=40&v=4'/> &nbsp; &nbsp; &nbsp;
+<img width='50'  src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png'/> &nbsp; &nbsp; &nbsp;
+<img width='50'  src ='https://avatars.githubusercontent.com/u/67109815?s=40&v=4'/> &nbsp; &nbsp; &nbsp;
+<img width='50'  src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png'/> &nbsp; &nbsp; &nbsp;
+
+
+
+
+
+
+
+
 <br/>
 <br/>
 <br/>
