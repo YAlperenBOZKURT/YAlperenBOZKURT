@@ -3,7 +3,7 @@
 
 ### Hi there, i'm Yusuf Alperen BOZKURT :blush:
 
-## Front End Developer |  Web Developer
+## Software Developer |  Web Developer
 <br/>
 
 
