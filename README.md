@@ -16,6 +16,12 @@ As a solution-oriented and detail-focused individual, I am actively engaged in r
 <a href="https://www.instagram.com/yalperenbozkurt/">
 <img width='50'  src="https://github.com/YAlperenBOZKURT/YAlperenBOZKURT/assets/108146039/3887bb2c-86e9-4370-89dc-7282fcc2a341"> 
 </a>
+&nbsp; &nbsp; 
+<a href="mailto:yalperenbozkurt@gmail.com">
+  <img width="50" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="Email me" />
+</a>
+
+
 
 <br/>
 <br/>
@@ -37,6 +43,12 @@ As a solution-oriented and detail-focused individual, I am actively engaged in r
 <img width='50'  src ='https://github.com/YAlperenBOZKURT/YAlperenBOZKURT/assets/108146039/8d57c342-a7cd-4cbf-96dc-623291fbd033'/> &nbsp; &nbsp; &nbsp;
 <img width='50'  src ='https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png'/> &nbsp; &nbsp; &nbsp;
 <img width='50'  src ='https://avatars.githubusercontent.com/u/177543?s=200&v=4'/> &nbsp; &nbsp; &nbsp;
+<img width='50' src='https://user-images.githubusercontent.com/4727/38117885-69734bbc-336c-11e8-8653-86b0fa071896.png' /> &nbsp; &nbsp; &nbsp;
+<img width='50'  src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png' /> &nbsp; &nbsp; &nbsp;
+<!-- https://github.com/marwin1991/profile-technology-icons?tab=readme-ov-file -->
+
+
+
 
 
 <br/>
