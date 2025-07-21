@@ -5,7 +5,11 @@
 
 ### Software Developer |  Web Developer
 <br/>
-As a solution-oriented and detail-focused individual, I am actively engaged in refining my skills through various small-scale projects, in addition to the professional experience I have gained in my career. My goal is to evolve into a full-stack developer, enhancing my capabilities to their fullest extent, and making valuable contributions to the success of the company I work with. At present, I am in search of a position where I can effectively leverage my potential, continue my personal development journey, and provide meaningful contributions to the organization.
+I'm a solution-focused developer with 3 years of professional experience, mainly in frontend and interactive content development. Outside of work, I build small full-stack projects, tools and automations — always looking to push my limits and learn something new.
+<br><br>
+I aim to grow into a well-rounded full-stack developer who builds robust, user-centric applications. I enjoy turning ideas into working products, solving real problems, and collaborating with others to create meaningful digital experiences.
+<br><br>
+Currently, I’m open to opportunities where I can contribute, grow, and be part of something impactful.
 
 ## Reach out to me
 
