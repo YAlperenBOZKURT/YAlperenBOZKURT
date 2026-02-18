@@ -13,22 +13,34 @@ Currently, I’m open to opportunities where I can contribute, grow, and be part
 
 ## Reach out to me
 
-<a href="https://www.linkedin.com/in/yalperenbozkurt/">
-<img width='50'  src="https://user-images.githubusercontent.com/108146039/258777846-4d595ff5-d674-4f79-89eb-1d255efff235.svg"> 
-</a>
-&nbsp; &nbsp; 
-<a href="https://www.instagram.com/yalperenbozkurt/">
-<img width='50'  src="https://github.com/YAlperenBOZKURT/YAlperenBOZKURT/assets/108146039/3887bb2c-86e9-4370-89dc-7282fcc2a341"> 
-</a>
-&nbsp; &nbsp; 
-<a href="mailto:yalperenbozkurt@gmail.com">
-  <img width="50" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="Email me" />
-</a>
+<br/><br/>
+<div align="center">
+  <a href="https://yabozkurt.com" target="_blank">
+    <img src="https://img.shields.io/badge/VISIT%20MY%20DIGITAL%20GARDEN-YABOZKURT-6a0dad?style=for-the-badge&logo=rocket&logoColor=white&labelColor=ffa500" alt="Portfolio" />
+  </a>
 
 
+  <p align="center">
+    <code>━━━━━━━━━━━━━━ or ━━━━━━━━━━━━━━</code><br>
+    <strong>FIND ME ON SOCIALS</strong>
+  </p>
 
-<br/>
-<br/>
+  <a href="https://www.linkedin.com/in/yalperenbozkurt/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/yalperenbozkurt/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="mailto:yalperenbozkurt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="400px">
+</div>
+
+
 
 ## Tech I use
 
@@ -76,6 +88,7 @@ Currently, I’m open to opportunities where I can contribute, grow, and be part
 
 [Linkedin]:https://www.linkedin.com/in/yalperenbozkurt/
 [instragram]:https://www.instagram.com/yalperenbozkurt/
+
 
 
 
