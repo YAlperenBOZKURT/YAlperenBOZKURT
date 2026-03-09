@@ -3,13 +3,14 @@
 
 ## Hi there, i'm Yusuf Alperen BOZKURT 
 
-### Software Developer |  Web Developer
+### Software Engineer | React • Next.js • Angular | Node.js • Spring Boot
 <br/>
-I'm a solution-focused developer with 3 years of professional experience, mainly in frontend and interactive content development. Outside of work, I build small full-stack projects, tools and automations — always looking to push my limits and learn something new.
-<br><br>
-I aim to grow into a well-rounded full-stack developer who builds robust, user-centric applications. I enjoy turning ideas into working products, solving real problems, and collaborating with others to create meaningful digital experiences.
-<br><br>
-Currently, I’m open to opportunities where I can contribute, grow, and be part of something impactful.
+
+Software engineer with 3+ years of experience building full-stack web applications and scalable digital products. I work across both frontend and backend, focusing on building reliable systems using modern technologies.
+<br/><br/>
+Outside of my professional work, I experiment with new technologies and build freelance, side and volunteer projects to keep improving my development skills.
+<br/><br/>
+Currently open to opportunities where I can contribute, grow, and build impactful products.
 
 ## Reach out to me
 
@@ -88,6 +89,7 @@ Currently, I’m open to opportunities where I can contribute, grow, and be part
 
 [Linkedin]:https://www.linkedin.com/in/yalperenbozkurt/
 [instragram]:https://www.instagram.com/yalperenbozkurt/
+
 
 
 
