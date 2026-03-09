@@ -71,24 +71,13 @@ Currently open to opportunities where I can contribute, grow, and build impactfu
 <br/>
 <br/>
 <br/>
-<details>
-<summary> GitHub Stats
-</summary>
-<img src='https://github-readme-stats.vercel.app/api?username=yalperenbozkurt&theme=merko'/>
-</details>
-
-<details>
-<summary> Most use Languages
-</summary>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yalperenbozkurt&layout=compact'/>
-</details>
-
 
 
 
 
 [Linkedin]:https://www.linkedin.com/in/yalperenbozkurt/
 [instragram]:https://www.instagram.com/yalperenbozkurt/
+
 
 
 
