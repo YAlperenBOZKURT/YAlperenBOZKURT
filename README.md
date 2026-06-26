@@ -62,6 +62,10 @@ Currently open to opportunities where I can contribute, grow, and build impactfu
 <img width='50'  src ='https://avatars.githubusercontent.com/u/177543?s=200&v=4'/> &nbsp; &nbsp; &nbsp;
 <img width='50' src='https://user-images.githubusercontent.com/4727/38117885-69734bbc-336c-11e8-8653-86b0fa071896.png' /> &nbsp; &nbsp; &nbsp;
 <img width='50'  src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png' /> &nbsp; &nbsp; &nbsp;
+<img width='50'  src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png' /> &nbsp; &nbsp; &nbsp;
+<img width='50'  src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png' /> &nbsp; &nbsp; &nbsp;
+<img width='50'  src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png' /> &nbsp; &nbsp; &nbsp;
+
 <!-- https://github.com/marwin1991/profile-technology-icons?tab=readme-ov-file -->
 
 
